@@ -1,0 +1,6 @@
+don't track debian build files
+/debian/*.log
+/debian/*.substvars
+/debian/cinnamon-backgrounds/
+/debian/files
+
