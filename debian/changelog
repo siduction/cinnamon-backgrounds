@@ -1,3 +1,9 @@
+cinnamon-backgrounds (2.2.16) unstable; urgency=medium
+
+  * new debian/$foo  
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 16 Aug 2014 21:17:59 +0200
+
 cinnamon-backgrounds (2.2.14) unstable; urgency=low
 
   * Initial Release.
